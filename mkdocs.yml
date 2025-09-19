@@ -1,0 +1,18 @@
+site_name: Core Media Product Knowledge Base
+site_description: "Informasi produk yang dijual di Core Media Indonesia"
+site_author: "Tim Knowledge Base"
+
+theme:
+  name: material
+  language: id
+
+nav:
+  - Home: index.md
+  - Kategori:
+      - Blackmagic Design: kategori/blackmagic-design.md
+      - AVerMedia: kategori/avermedia.md
+      - Converter & Audio Converter: kategori/converters.md
+  - Products:
+      - Blackmagic Pocket Cinema Camera 4K: products/blackmagic-pocket-cinema-camera-4k.md
+      - AVerMedia PW515 Webcam: products/avermedia-pw515-webcam.md
+      - HDMI to SDI Mini Converter 6G: products/mini-converter-hdmi-to-sdi-6g.md
