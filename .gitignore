@@ -22,3 +22,15 @@ yarn-error.log*
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+
+# mkdocs build
+site/
+
+# VS Code
+.vscode/
