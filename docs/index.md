@@ -5,7 +5,7 @@ Halo ini update terbaru!
 
 LEBIH bARU LAGI
 
-coba langsung upload
+UPLOAD TERMINAL
 
 Ini contoh knowledge base untuk produk Core Media. Gunakan menu di samping untuk menavigasi kategori dan produk.
 
