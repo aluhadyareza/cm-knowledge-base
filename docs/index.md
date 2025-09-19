@@ -1,7 +1,7 @@
 #Selamat datang di Core Media Product Knowledge Base
 
 # Welcome
-Halo ini update terbaru!
+UPDATE TERBARU NI BOS
 
 LEBIH bARU LAGI
 
