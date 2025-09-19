@@ -1,23 +1,25 @@
-name: Build and Deploy
+name: build-deploy
 
 on:
   push:
     branches:
-      - main
+      - main  # setiap kali ada commit ke branch main
 
 permissions:
-  contents: write  # penting! biar bisa push ke gh-pages
+  contents: write  # wajib biar bisa push ke gh-pages
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: 3.x
 
       - name: Install dependencies
         run: |
