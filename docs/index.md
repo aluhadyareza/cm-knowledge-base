@@ -1,4 +1,7 @@
-#Selamat datang di Core Media Indonesia Product Knowledge Base
+#Selamat datang di Core Media Product Knowledge Base
+
+# Welcome
+Halo ini update terbaru!
 
 Ini contoh knowledge base untuk produk Core Media. Gunakan menu di samping untuk menavigasi kategori dan produk.
 
